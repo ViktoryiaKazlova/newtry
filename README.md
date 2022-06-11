@@ -2,5 +2,5 @@
 new text
 some more text
 
-fix2 changes
-some very great text
+something complitely new
+and this ist new too
